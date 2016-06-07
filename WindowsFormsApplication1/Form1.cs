@@ -58,11 +58,13 @@ namespace WindowsFormsApplication1
                 string txtFile = str.ReadToEnd();
 
                 richTextBox1.Text = GetText(txtFile);
+                
             }
         }
         public string GetText(string str)
         {
-            string res = "";
+            string res = null;
+            int count = 0;
             Regex pattern =
                 new Regex(@"\[(?<val>.*?)\]",
                     RegexOptions.Compiled |
@@ -72,7 +74,9 @@ namespace WindowsFormsApplication1
                 if (m.Success)
                 {
                     res += (m.Groups["val"].Value) + "\n";
+                    count++;
                 }
+            res += "\nTotal count: " + count;
             return res;
         }
 
@@ -130,7 +134,7 @@ namespace WindowsFormsApplication1
 
         private void button4_Click(object sender, EventArgs e)
         {
-            string tmp ="";
+            string tmp = null;
             tmp = textBox3.Text.ToString();
             textBox3.Text = textBox4.Text.ToString();
             textBox4.Text = tmp;
