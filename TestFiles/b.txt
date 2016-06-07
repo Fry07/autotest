@@ -1,0 +1,41 @@
+4 Port Serial Interface
+BJT Quasi-Saturation - GAMMA, RCO & VO with RB, RC & RE-01
+BJT Quasi-Saturation - GAMMA, RCO & VO with RB, RC & RE-02
+BJT Quasi-Saturation - GAMMA, RCO & VO with RB, RC & RE-03
+BJT Quasi-Saturation - GAMMA, RCO & VO with RB, RC & RE-04
+BJT Quasi-Saturation - GAMMA, RCO & VO-01a
+BJT Quasi-Saturation - GAMMA, RCO & VO-01b
+BJT Quasi-Saturation - GAMMA, RCO & VO-02
+BJT Quasi-Saturation - GAMMA, RCO & VO-03a
+BJT Quasi-Saturation - GAMMA, RCO & VO-03b
+BJT Quasi-Saturation - GAMMA, RCO & VO-03c
+BJT Quasi-Saturation - GAMMA, RCO & VO-03d
+BJT Quasi-Saturation - GAMMA, RCO & VO-04b
+BJT Quasi-Saturation - GAMMA, RCO & VO-04c
+BJT Quasi-Saturation - GAMMA, RCO & VO-04d
+BJT Quasi-Saturation - GAMMA, RCO & VO-05
+BJT Quasi-Saturation - GAMMA, RCO & VO-06b
+BJT Quasi-Saturation - GAMMA, RCO & VO-06c
+BJT Quasi-Saturation - GAMMA, RCO & VO-06d
+BJT Quasi-Saturation - GAMMA, RCO & VO-07b
+BJT Quasi-Saturation - GAMMA, RCO & VO-07c
+BJT Quasi-Saturation - Qo & Qw-01
+BJT Quasi-Saturation - Qo & Qw-02
+BJT Quasi-Saturation - Qo & Qw-03
+BJT Quasi-Saturation - Qo & Qw-04
+BJT Quasi-Saturation - Qo & Qw-05
+BJT Quasi-Saturation - Res temp effects-RB-01
+BJT Quasi-Saturation - Res temp effects-RB-02
+BJT Quasi-Saturation - Res temp effects-RB-03
+BJT Quasi-Saturation - Res temp effects-RB-04
+BJT Quasi-Saturation - Res temp effects-RB-05
+BJT Quasi-Saturation - Res temp effects-RB-06
+BJT Quasi-Saturation - Res temp effects-RBM-01
+BJT Quasi-Saturation - Res temp effects-RBM-02
+BJT Quasi-Saturation - Res temp effects-RBM-03
+BJT Quasi-Saturation - Res temp effects-RBM-04
+BJT Quasi-Saturation - Res temp effects-RBM-05
+BJT Quasi-Saturation - Res temp effects-RBM-06
+BJT Quasi-Saturation - Res temp effects-RC-01
+BJT Quasi-Saturation - Res temp effects-RC-02
+BJT Quasi-Saturation - Res temp effects-RC-03
