@@ -17,6 +17,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            int count = 0;
             string st = "";
             try
             {
@@ -26,12 +27,14 @@ namespace WindowsFormsApplication1
                 foreach (string dir in dirs)
                 {
                     st += Path.GetFileName(dir).Split('.')[0] + "\n";
+                    count++;
                 }
             }
             catch (Exception ex)
             {
                 st += ("The process failed: {0}" + ex.ToString());
             }
+            st += "\nTotal count: " + count;
             richTextBox1.Text = st.ToString();
         }
 
@@ -52,7 +55,6 @@ namespace WindowsFormsApplication1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //using (StreamReader str = new StreamReader(@"C:\TestRun\new_test\test.ini", Encoding.Default))
             using (StreamReader str = new StreamReader(textBox2.Text.ToString(), Encoding.Default))
             {
                 string txtFile = str.ReadToEnd();
